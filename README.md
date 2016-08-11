@@ -1,4 +1,4 @@
-# JPA Many-To-Many Relationship Example with Spring Boot, HSQL
+# JPA Many-To-Many Relationship Example with Spring Data JPA, Spring Boot
 
 ## Guide
 https://hellokoding.com/jpa-many-to-many-relationship-mapping-example-with-spring-boot-hsql/
